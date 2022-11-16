@@ -11,7 +11,7 @@ package manejocadenas;
  */
 public class EjemploCadenas {
     public static void main(String[] args) {
-        String ciudad = "loJa";
+        String ciudad = "Loja";
                 
         System.out.printf("%s\n", ciudad.toLowerCase());
         System.out.printf("%s\n", ciudad.toUpperCase());
